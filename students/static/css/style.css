@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+}
+
+.navbar{
+    align-content: center;
+}
+
+.li {
+    align-content: left;
+    
+}
+
+.h5{
+    align-items: center;
+}
+
